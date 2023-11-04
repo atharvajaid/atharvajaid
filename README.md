@@ -75,4 +75,3 @@
 
 ## **Views and Followers**
 ![](https://komarev.com/ghpvc/?username=atharvajaid)
-<a href="https://github.com/atharvajaid?tab=followers"><img src="https://img.shields.io/github/followers/atharvajaid?label=Followers&style=social" alt="GitHub Badge"></a>
