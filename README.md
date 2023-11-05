@@ -72,5 +72,5 @@
 </p>
 <br>
 
-## 🔍 **Profile Views**
+## 🔎 **Profile Views**
 ![](https://komarev.com/ghpvc/?username=atharvajaid)
