@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png%22" height="175px"/></a>
-
+<img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="1000" height="300px"/></a>
 <h1 align="center">Hi 👋, I'm Atharva Jaid</h1>
 <h3 align="center"><b>I'm a Machine Learning and Data Science Enthusiast.</h3> <br> 
 
@@ -14,7 +13,7 @@
 
 - 📫 You can reach me on **atharvajaid2001@gmail.com**
 
-- ⚡ Fun fact - **I Play Football and I'm an Avid Formula 1 Fan.**
+- ⚡ Fun fact - **I enjoy playing football and I'm a Formula 1 enthusiast.**
 
 <br>
 
