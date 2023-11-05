@@ -1,6 +1,6 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="1000" height="300px"/></a>
-<h1 align="center">Hi 👋, I'm Atharva Jaid</h1>
-<h3 align="center"><b>I'm a Machine Learning and Data Science Enthusiast.</h3> <br> 
+<h1 align="center">Hi, I'm Atharva Jaid</h1>
+<h2 align="center"><b>I'm a Machine Learning and Data Science Enthusiast.</h3> <br> 
 
 
 
