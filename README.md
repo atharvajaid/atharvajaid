@@ -7,9 +7,9 @@
 ## 🙋‍♂️ **About Me** 
 
 
-- 🔭 I have a key interest in the field of **Machine Learning and Data Science.**
+- 🔭 I'm deeply engaged in the world of **Novel Tech Research.**
 
-- 🌱 I’m currently learning **Deep Learning and Signal Processing.**
+- 🌱 Currently learning **Deep Learning and System Design.**
 
 - 📫 You can reach me on **atharvajaid2001@gmail.com**
 
